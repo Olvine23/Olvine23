@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olvine23, Code Wizard, writing enthusiast, charming persona. A code a day with the docs at bay keeps the bugs away
+- 👋 Hi, I’m @Olvine23, Code Wizard, writing enthusiast, charming persona. A code a day with the docs close by  keeps the bugs away
   
 
 <!---
