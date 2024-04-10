@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Olvine23
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Flutter, React, Go
-- 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me olvinegeorge@netlify.app
+- 👋 Hi, I’m @Olvine23, Code Wizard, writing enthusiast, charming persona. A code a day with the docs at bay keeps the bugs away
+  
 
 <!---
 Olvine23/Olvine23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
